@@ -2,9 +2,9 @@
 
 ## Sediment
 
-Aguiar, F.C., Martins, M.J., Silva, P.C., Fernandes, M.R., 2016. [Riverscapes downstream of hydropower dams. Effects of altered flows and historical land-use change](https://www.sciencedirect.com/science/article/pii/S0169204616300469). Landscape and Urban Planning 153, 83-98.
+1. Aguiar, F.C., Martins, M.J., Silva, P.C., Fernandes, M.R., 2016. [Riverscapes downstream of hydropower dams. Effects of altered flows and historical land-use change](https://www.sciencedirect.com/science/article/pii/S0169204616300469). Landscape and Urban Planning 153, 83-98.
 
-Annandale, G.W., 1987. [Reservoir sedimentation](https://www.elsevier.com/books/reservoir-sedimentation/annandale/978-0-444-42729-8). Elsevier, Amsterdam [u.a.].
+1. Annandale, G.W., 1987. [Reservoir sedimentation](https://www.elsevier.com/books/reservoir-sedimentation/annandale/978-0-444-42729-8). Elsevier, Amsterdam [u.a.].
 
 Atkinson, E. 1996. [The Feasibility of Flushing Sediment from Reservoirs](https://eprints.hrwallingford.com/368/1/od137.pdf), TDR Project R5839, Report OD 137, HR Wallingford.
 
