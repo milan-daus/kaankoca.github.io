@@ -35,3 +35,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+Literature
+
+Aguiar, F.C., Martins, M.J., Silva, P.C., Fernandes, M.R., 2016. [Riverscapes downstream of hydropower dams. Effects of altered flows and historical land-use change](https://www.sciencedirect.com/science/article/pii/S0169204616300469). Landscape and Urban Planning 153, 83-98. (https://www.sciencedirect.com/science/article/pii/S0169204616300469)
+
+Annandale, G.W., 1987. Reservoir sedimentation. Elsevier, Amsterdam [u.a.].
+
+Atkinson, E. 1996. The Feasibility of Flushing Sediment from Reservoirs, TDR Project R5839, Report OD 137, HR Wallingford.
