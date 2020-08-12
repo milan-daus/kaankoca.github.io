@@ -90,7 +90,6 @@
 
 1. Varadharajan, C., Hemond, H.F. (2012). [Time-series analysis of high-resolution ebullition fluxes from a stratified, freshwater lake] Journal of Geophysical Research: Biogeosciences, 117 (G2). (https://doi.org/10.1029/2011JG001866)
 
-1. 
 
 ## Biofilms
 
@@ -170,7 +169,6 @@
 
 1. Vignaga, E., Sloan, D.M., Luo, X., Haynes, H., Phoenix, V.R., Sloan, W.T., 2013. [Erosion of biofilm-bound fluvial sediments] Nat. Geosci. 6, 770–774. (https://doi.org/10.1038/ngeo1891)
 
-1. 
 
 ## Cyanobacterial blooms
 
@@ -204,7 +202,6 @@
 
 1. Salmaso, N., Buzzi, F., Garibaldi, L., Morabito, G., Simona, M., 2012. [Effects of nutrient availability and temperature on phytoplankton development: a case study from large lakes south of the Alps] Aquat. Sci. 74, 555–570. (https://doi.org/10.1007/s00027-012-0248-5)
 
-1. 
 
 ## Social Interactions
 
